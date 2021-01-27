@@ -36,7 +36,6 @@
     display: none;
 }
 
-.profile {
-    display: inline-block;
-    margin-left: auto;
+.page-content {
+    grid-area: content;
 }
